@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bionic_tryout.iml" filepath="$PROJECT_DIR$/.idea/bionic_tryout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/module-dection.iml" filepath="$PROJECT_DIR$/.idea/module-dection.iml" />
     </modules>
   </component>
 </project>
