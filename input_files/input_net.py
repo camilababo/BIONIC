@@ -53,4 +53,4 @@ def data_to_edgelist(expression_data_file, edgelist_file):
 
 
 if __name__ == '__main__':
-    data_to_edgelist('../outputs/reduced_output_corrected.csv', 'edgelist_corrected.txt')
+    data_to_edgelist('../outputs/locus_tag_processed_scaled.csv', 'edgelist_corrected.txt')
