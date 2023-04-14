@@ -136,6 +136,32 @@ def map_locus_tag_to_gene_symbol(input_file, mapping_file):
     print("Function map_locus_tag_to_gene_symbol() is complete.")
 
 
+def check_flowering_genes(data_file, flowering_genes_file):
+    """
+    This functions checks how many flowering genes are in the dataset.
+    :param data_file: A csv file containing the gene expression data.
+    :param flowering_genes_file: The file containing the flowering genes
+    :return: The number of flowering genes in the edgelist file
+    """
+
+    print("Function check_flowering_genes() is running...")
+
+    flowering_genes = set()
+    with open(flowering_genes_file, 'r') as file:
+        for line in file:
+            genes = line.strip().split()
+            for gene in genes:
+                flowering_genes.add(gene)
+
+    # Read the data_file and count the number of flowering genes
+    data_file = pd.read_csv(data_file, sep=',', header=0, index_col='gene_symbol')
+    matching_genes = flowering_genes.intersection(set(data_file.index))
+    num_matching_genes = len(matching_genes)
+
+    print("Function check_flowering_genes() is complete.")
+    print(f"Number of flowering genes in {data_file}: {num_matching_genes}")
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Get the gene symbol from the locus tag through the NCBI database '
                                                  'using the gene IDs.')
@@ -154,6 +180,9 @@ if __name__ == '__main__':
         locus_tag_preprocessing(args.data_file)
     elif args.function == 'map_locus_tag_to_gene_symbol':
         map_locus_tag_to_gene_symbol(args.data_file, args.mapping_file)
+    elif args.function == 'check_flowering_genes':
+        check_flowering_genes(args.data_file, args.mapping_file)
 
     # collect_gene_symbols('ncbi_id_mapping.txt')
     # get_gene_symbol_from_edgelist('../outputs/edgelist.txt', 'ncbi_id_mapping.txt')
+    # check_flowering_genes('../outputs/gene_symbol_processed.csv', 'flowering_genes.txt')
