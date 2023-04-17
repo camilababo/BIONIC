@@ -159,7 +159,7 @@ def check_flowering_genes(data_file, flowering_genes_file):
     num_matching_genes = len(matching_genes)
 
     print("Function check_flowering_genes() is complete.")
-    print(f"Number of flowering genes in {data_file}: {num_matching_genes}")
+    print(f"Number of flowering genes is {num_matching_genes}, with the present genes being {matching_genes}")
 
 
 if __name__ == '__main__':
@@ -185,4 +185,4 @@ if __name__ == '__main__':
 
     # collect_gene_symbols('ncbi_id_mapping.txt')
     # get_gene_symbol_from_edgelist('../outputs/edgelist.txt', 'ncbi_id_mapping.txt')
-    # check_flowering_genes('../outputs/gene_symbol_processed.csv', 'flowering_genes.txt')
+    # check_flowering_genes('../outputs/genesym.csv', 'flowering_genes.txt')

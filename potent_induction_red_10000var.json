@@ -1,10 +1,10 @@
 {
   "net_names": [
-    "edgelist_corrected.txt"
+    "edgelist.txt"
   ],
   "out_name": "test_features",
   "epochs": 2000,
-  "batch_size": 2000,
+  "batch_size": 1000,
   "learning_rate": 0.0005830944755717023,
   "gat_shapes": {
     "dimension": 68,
@@ -17,5 +17,3 @@
   "plot_loss": true,
   "tensorboard.training": true
 }
-
-

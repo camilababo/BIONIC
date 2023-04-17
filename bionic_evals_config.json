@@ -1,0 +1,35 @@
+{
+    "networks": [
+        {
+            "name": "Arabidopsis Pearson correlation between gene profile"
+            "path": "edgelist.txt"
+            "delimiter": " "
+        }
+    ],
+    "features": [
+        {
+            "name": "BIONIC Features",
+            "path": "test_features_features.tsv",
+            "delimiter": ","
+        }
+    ],
+    "standards": [
+        {
+            "name": "TAIR annotation",
+            "task": "module_detection",
+            "path": "?complex-modules.json",
+            "samples": 10,
+            "methods": [
+                "average",
+                "single",
+                "complete"
+            ],
+            "metrics": [
+                "euclidean",
+                "cosine"
+            ],
+            "thresholds": 500
+        }
+    ],
+    "consolidation": "union"
+}
