@@ -1,9 +1,9 @@
-import itertools
-
+# import itertools
+# from itertools import combinations
+# from scipy.stats import pearsonr
 import pandas as pd
-from itertools import combinations
-from scipy.stats import pearsonr
 from tqdm import tqdm
+import numpy as np
 
 
 def data_to_edgelist(expression_data_file, edgelist_file):
@@ -14,6 +14,7 @@ def data_to_edgelist(expression_data_file, edgelist_file):
     :param edgelist_file: The edgelist file
     :return: an edgelist file
     """
+    print("The function data_to_edgelist() is starting...")
 
     # Read the expression data
     df = pd.read_csv(expression_data_file, sep=',', index_col=0, header=0)
@@ -26,18 +27,30 @@ def data_to_edgelist(expression_data_file, edgelist_file):
     expression_data_df = df.loc[not_organ_genes]
     filtered_genes = list(expression_data_df.T.columns)
 
+    # Calculate the correlation coefficient matrix
+    corr_matrix = np.corrcoef(expression_data_df)
+
+    # Get the upper triangle of the correlation coefficient matrix
+    upper_triangle_indices = np.triu_indices(corr_matrix.shape[0], k=1)
+    corr_values = corr_matrix[upper_triangle_indices]
+
+    # Calculate the threshold value for the 99.5 percentile
+    threshold = np.percentile(corr_values, 0.5)
+
     # Create a list of edges and their weights
     edges = []
-    num_edges = len(list(combinations(filtered_genes, 2)))
+    num_edges = len(upper_triangle_indices[0])
     with tqdm(total=num_edges) as pbar:
-        for i, (src, trg) in enumerate(combinations(filtered_genes, 2)):
-            src_values = expression_data_df.loc[src].values
-            trg_values = expression_data_df.loc[trg].values
+        for i in range(num_edges):
+            src_index = upper_triangle_indices[0][i]
+            trg_index = upper_triangle_indices[1][i]
+            src = filtered_genes[src_index]
+            trg = filtered_genes[trg_index]
+            weight = 1 - abs(corr_matrix[src_index, trg_index])
 
-            weight = 1 - abs(pearsonr(src_values, trg_values)[0])
-
-            # Add the edge and weight to the list
-            edges.append((src, trg, weight))
+            # Add the edge and weight to the list if the weight is above the threshold
+            if weight > threshold:
+                edges.append((src, trg, weight))
 
             # Update the progress bar every 1000 edges
             if i % 1000 == 0:
@@ -50,7 +63,7 @@ def data_to_edgelist(expression_data_file, edgelist_file):
 
     # Update the progress bar to 100% after the loop has finished
     pbar.update(num_edges - pbar.n)
-
+    print("The function data_to_edgelist() is complete...")
 
 if __name__ == '__main__':
-    data_to_edgelist('../outputs/locus_tag_processed_scaled.csv', 'edgelist_corrected.txt')
+    data_to_edgelist('../outputs/previous_attemps/locus_tag_processed_scaled.csv', 'edgelist_corrected.txt')

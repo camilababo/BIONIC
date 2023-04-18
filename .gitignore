@@ -1,4 +1,4 @@
-*.{zip,gz,rar,mp4,mov} # Ignore files larger than 100 MB
+*.{zip,gz,rar,mp4,mov,} # Ignore files larger than 100 MB
 
 # Ignore files larger than 100MB
 !*.csv/{,,!(????????).csv}

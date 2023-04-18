@@ -5,8 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71696023-2683-4dc3-a9f5-76999b0f6a1f" name="Changes" comment="updates">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic_evals_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/bionic_evals_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/test_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/test_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/test_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/test_features_loss.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/input_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/input_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/probes_alias_sep.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/probes_alias_sep.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/reduced_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/reduced_output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/ARACNE Inference 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/aliases_processed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/aliases_processed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/edgelist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/edgelist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/gene_symbol_processed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/gene_symbol_processed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/genesym.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/genesym.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/locus_tag_processed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/locus_tag_processed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/locus_tag_processed_red.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/locus_tag_processed_red.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/locus_tag_processed_scaled.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/locus_tag_processed_scaled.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/potent_induction_processed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/previous_attemps/potent_induction_processed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/probes_alias_sep.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/sixteen_df.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/twenty_five_df.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/potent_induction_red_10000var.json" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/potent_induction_red_10000var.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/potent_induction_scaled.json" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/potent_induction_scaled.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tair_go_annotation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/tair_go_annotation.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +62,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\separate_conditions" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\current_df" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\previous_attemps" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.geneid_mapping">
     <configuration name="check_flowering_genes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
