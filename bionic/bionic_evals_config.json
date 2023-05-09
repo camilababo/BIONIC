@@ -1,8 +1,8 @@
 {
     "networks": [
         {
-            "name": "Arabidopsis Pearson correlation between gene profile"
-            "path": "edgelist.txt"
+            "name": "Arabidopsis Pearson correlation between gene profile",
+            "path": "edgelist.txt",
             "delimiter": " "
         }
     ],

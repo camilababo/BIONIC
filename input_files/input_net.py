@@ -35,8 +35,8 @@ def data_to_edgelist(expression_data_file, edgelist_file):
     corr_values = corr_matrix[upper_triangle_indices]
 
     # Calculate the threshold value for the 99.5 percentile
-    threshold = np.percentile(corr_values, 0.5)
-
+    threshold = np.percentile(corr_values, 99.5)
+    print(f"The threshold is {threshold}.")
     # Create a list of edges and their weights
     edges = []
     num_edges = len(upper_triangle_indices[0])
@@ -64,6 +64,7 @@ def data_to_edgelist(expression_data_file, edgelist_file):
     # Update the progress bar to 100% after the loop has finished
     pbar.update(num_edges - pbar.n)
     print("The function data_to_edgelist() is complete...")
+
 
 if __name__ == '__main__':
     data_to_edgelist('../outputs/previous_attemps/locus_tag_processed_scaled.csv', 'edgelist_corrected.txt')

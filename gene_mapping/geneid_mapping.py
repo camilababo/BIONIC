@@ -21,7 +21,8 @@ def collect_gene_symbols(ncbi_id_mapping_file):
     gene_id_dict = {}
     with open(ncbi_id_mapping_file) as f:
         gene_info = [line.strip().split() for line in f]
-        gene_id_dict = {line[0]: line[1] for line in gene_info}  # {locus_tag: gene_id}
+        gene_id_dict = {line[0]: line[1] for line in gene_info}  # {gene_id: locus_tag}
+        print(gene_id_dict)
 
     # Get the gene symbol from the NCBI database using the gene ID dictionary through the Entrez API
     gene_symbol = []
@@ -35,7 +36,7 @@ def collect_gene_symbols(ncbi_id_mapping_file):
                 for record in records:
                     try:
                         gene_symbol.append(record['Entrezgene_gene']['Gene-ref']['Gene-ref_locus'])
-                        # print(gene_symbol)
+                        print(gene_symbol)
                     except:
                         print(f"Skipping record {record.get('Id', 'unknown')} - no 'Gene-ref_locus' key found.")
 
@@ -52,7 +53,7 @@ def collect_gene_symbols(ncbi_id_mapping_file):
             pbar.update(batch_size)
 
     # Save the gene symbol and locus tag in a file
-    with open('gene_symbol_mapping.txt', 'w') as f:
+    with open('gene_symbol_test.txt', 'w') as f:
         for i, (locus_tag, gene_id) in enumerate(gene_info):
             try:
                 f.write(f"{locus_tag} {gene_symbol[i]} \n")
@@ -120,9 +121,11 @@ def map_locus_tag_to_gene_symbol(input_file, mapping_file):
     input_df = pd.read_csv(input_file)
 
     gene_symbols = []
+    changed_genes = 0
     for probe_name in input_df['probe_name']:
         if probe_name in probe_to_gene:
             gene_symbols.append(probe_to_gene[probe_name])
+            changed_genes += 1
         else:
             gene_symbols.append(probe_name)
 
@@ -131,8 +134,10 @@ def map_locus_tag_to_gene_symbol(input_file, mapping_file):
     input_df = input_df.drop(columns=['probe_name'])
     input_df = input_df.set_index('gene_symbol')
 
-    input_df.to_csv('gene_symbol_processed.csv')
+    input_df.to_csv('symbol_test_num.csv')
 
+    # Print number of altered genes
+    print(f"Number of altered genes: {changed_genes}")
     print("Function map_locus_tag_to_gene_symbol() is complete.")
 
 
@@ -169,8 +174,9 @@ if __name__ == '__main__':
     parser.add_argument('-m', '--mapping_file', type=str, help='The file containing the mapping between the '
                                                                'locus tag and the NCBI gene ID.')
     parser.add_argument('function', type=str, help='The function to run.', choices=['collect_gene_symbols',
-                                                                                    'feature_df_gene_symbol',
-                                                                                    'edgelist_gene_symbol'])
+                                                                                    'locus_tag_preprocessing',
+                                                                                    'map_locus_tag_to_gene_symbol',
+                                                                                    'check_flowering_genes'])
 
     args = parser.parse_args()
 
