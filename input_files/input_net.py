@@ -33,10 +33,12 @@ def data_to_edgelist(expression_data_file, edgelist_file):
     # Get the upper triangle of the correlation coefficient matrix
     upper_triangle_indices = np.triu_indices(corr_matrix.shape[0], k=1)
     corr_values = corr_matrix[upper_triangle_indices]
+    absolute_corr_values = np.abs(corr_values)
 
     # Calculate the threshold value for the 99.5 percentile
-    threshold = np.percentile(corr_values, 99.5)
+    threshold = np.percentile(absolute_corr_values, 99.5)
     print(f"The threshold is {threshold}.")
+
     # Create a list of edges and their weights
     edges = []
     num_edges = len(upper_triangle_indices[0])
@@ -46,7 +48,7 @@ def data_to_edgelist(expression_data_file, edgelist_file):
             trg_index = upper_triangle_indices[1][i]
             src = filtered_genes[src_index]
             trg = filtered_genes[trg_index]
-            weight = 1 - abs(corr_matrix[src_index, trg_index])
+            weight = 1 - absolute_corr_values[i]
 
             # Add the edge and weight to the list if the weight is above the threshold
             if weight > threshold:
@@ -67,4 +69,4 @@ def data_to_edgelist(expression_data_file, edgelist_file):
 
 
 if __name__ == '__main__':
-    data_to_edgelist('../outputs/previous_attemps/locus_tag_processed_scaled.csv', 'edgelist_corrected.txt')
+    data_to_edgelist('../outputs/previous_attemps/probes_alias_sep.csv', 'edgelist_absval.txt')

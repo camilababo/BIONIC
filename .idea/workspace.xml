@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="71696023-2683-4dc3-a9f5-76999b0f6a1f" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/bionic_evals_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/bionic_evals/bionic_evals_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/potent_induction_red_10000var.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/tair_go_annotation.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_files/input_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/input_net.py" afterDir="false" />
     </list>
@@ -19,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -42,6 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anaca/PycharmProjects/module-dection/ml-attemp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,14 +54,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\aracne" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\current_df" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\separate_conditions" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\previous_attemps" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.geneid_mapping">
+  <component name="RunManager" selected="Python.string_file_to_eval_stand">
     <configuration name="check_flowering_genes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,8 +106,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="string_file_to_eval_stand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="module-dection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bionic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals\string_file_to_eval_stand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.string_file_to_eval_stand" />
         <item itemvalue="Python.geneid_mapping" />
         <item itemvalue="Python.check_flowering_genes" />
       </list>
@@ -135,7 +161,11 @@
       <workItem from="1683100161063" duration="3114000" />
       <workItem from="1683185391042" duration="4309000" />
       <workItem from="1683531120624" duration="596000" />
-      <workItem from="1683616279849" duration="4027000" />
+      <workItem from="1683616279849" duration="9602000" />
+      <workItem from="1683703448320" duration="8124000" />
+      <workItem from="1683797496114" duration="8186000" />
+      <workItem from="1683877005964" duration="17753000" />
+      <workItem from="1684142814768" duration="3221000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1681474973306</created>
@@ -179,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681833208318</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updates">
+      <created>1683624403095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683624403095</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +238,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/module_dection$string_file_to_eval_stand.coverage" NAME="string_file_to_eval_stand Coverage Results" MODIFIED="1684153420237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bionic" />
     <SUITE FILE_PATH="coverage/module_dection$geneid_mapping.coverage" NAME="geneid_mapping Coverage Results" MODIFIED="1681659409138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gene_mapping" />
     <SUITE FILE_PATH="coverage/module_dection$check_flowering_genes.coverage" NAME="check_flowering_genes Coverage Results" MODIFIED="1681487933759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gene_mapping" />
   </component>
