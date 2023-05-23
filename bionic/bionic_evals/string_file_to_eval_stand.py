@@ -18,7 +18,6 @@ def string_file_to_eval_stand(input_file):
             protein_id = protein_id.split(".")[1]
             if cluster_id not in cluster_dict:
                 cluster_dict[cluster_id] = [protein_id]
-                print(cluster_dict)
             else:
                 cluster_dict[cluster_id].append(protein_id)
 
