@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71696023-2683-4dc3-a9f5-76999b0f6a1f" name="Changes" comment="updates">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/bionic_evals_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/string_file_to_eval_stand.py" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/bionic_evals/string_file_to_eval_stand.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_features_network_weights.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_network_weights.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/potent_induction_scaled.json" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/potent_induction_scaled.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/test_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/non-filtered-run/test_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/test_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/non-filtered-run/test_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/non-filtered-run/test_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/non_filtered/test_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/non-filtered-run/test_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/bionic/non_filtered/test_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_scrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/gene_mapping/florid_scrapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/gene_file_to_gene_complexes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/edgelist_25mad_pn999.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/edgelist_25mad_pn999.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/input_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/input_net.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -44,32 +42,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anaca/PycharmProjects/module-dection/aracne&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/anaca/PycharmProjects/module-dection/aracne",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\aracne" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\filtered_run_probes" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\aracne\gewrokbench" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\non-filtered-run" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\filtered_run_gene_sym" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\aracne" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.string_file_to_eval_stand">
+  <component name="RunManager" selected="Python.input_net">
     <configuration name="check_flowering_genes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +114,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="input_net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="module-dection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/input_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_files/input_net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="string_file_to_eval_stand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,8 +158,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="true_predictions_labels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="module-dection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bionic/bionic_evals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bionic/bionic_evals/true_predictions_labels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.input_net" />
+        <item itemvalue="Python.true_predictions_labels" />
         <item itemvalue="Python.string_file_to_eval_stand" />
         <item itemvalue="Python.geneid_mapping" />
         <item itemvalue="Python.check_flowering_genes" />
@@ -179,7 +225,13 @@
       <workItem from="1684312626911" duration="4190000" />
       <workItem from="1684478939630" duration="8242000" />
       <workItem from="1684752981766" duration="2408000" />
-      <workItem from="1684828393297" duration="3692000" />
+      <workItem from="1684828393297" duration="4387000" />
+      <workItem from="1684913212798" duration="2819000" />
+      <workItem from="1684920359660" duration="11130000" />
+      <workItem from="1685000122024" duration="6671000" />
+      <workItem from="1685087055084" duration="18546000" />
+      <workItem from="1685432504349" duration="19447000" />
+      <workItem from="1685519323336" duration="8429000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1681474973306</created>
@@ -237,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684157693120</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updates">
+      <created>1684855334943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684855334943</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,5 +321,7 @@
     <SUITE FILE_PATH="coverage/module_dection$string_file_to_eval_stand.coverage" NAME="string_file_to_eval_stand Coverage Results" MODIFIED="1684153420237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bionic" />
     <SUITE FILE_PATH="coverage/module_dection$check_flowering_genes.coverage" NAME="check_flowering_genes Coverage Results" MODIFIED="1681487933759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gene_mapping" />
     <SUITE FILE_PATH="coverage/module_dection$geneid_mapping.coverage" NAME="geneid_mapping Coverage Results" MODIFIED="1681659409138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gene_mapping" />
+    <SUITE FILE_PATH="coverage/module_dection$true_predictions_labels.coverage" NAME="true_predictions_labels Coverage Results" MODIFIED="1685443295922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bionic/bionic_evals" />
+    <SUITE FILE_PATH="coverage/module_dection$input_net.coverage" NAME="input_net Coverage Results" MODIFIED="1685452779408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_files" />
   </component>
 </project>

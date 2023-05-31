@@ -18,3 +18,8 @@
 ./.git/objects/47/0b9f060f511c21b50d0c55d413ae8cd36b01db
 ./bionic/bionic_evals/3702.clusters.proteins.v11.5.txt
 ./outputs/previous_attemps/edgelist_corrected.txt
+./.git/objects/47/0b9f060f511c21b50d0c55d413ae8cd36b01db
+./bionic/bionic_evals/3702.clusters.proteins.v11.5.txt
+./bionic/bionic_evals/labeled_output.json
+./bionic/bionic_evals/output.json
+./outputs/previous_attemps/edgelist_corrected.txt
