@@ -159,7 +159,7 @@ def check_flowering_genes(data_file, flowering_genes_file):
                 flowering_genes.add(gene)
 
     # Read the data_file and count the number of flowering genes
-    data_file = pd.read_csv(data_file, sep=',', header=0, index_col='gene_symbol')
+    data_file = pd.read_csv(data_file, sep='\t', header=0, index_col=0)
     separated_genes = set()
     for gene in data_file.index:
         genes = gene.split(';')
