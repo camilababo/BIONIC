@@ -56,4 +56,4 @@ def florid_interaction_modules(florid_pickle, output_file):
 
 
 if __name__ == '__main__':
-    florid_interaction_modules('flor_id_flowering_genes.pkl', 'train_interactions.json')
+    florid_interaction_modules('flor_id_flowering_genes.pkl', 'florid_interactions.json')

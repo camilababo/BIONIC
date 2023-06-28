@@ -236,9 +236,8 @@ if __name__ == '__main__':
     #                                                                            "/16mad_weighted.txt")
     # data_to_edgelist("../outputs/separate_conditions/25mad_flowering.csv", "../outputs/separate_conditions"
     #                                                                            "/25mad_weighted.txt")
-    generate_binary_edgelist("../outputs/separate_conditions/16mad_flowering.csv", "../outputs"
-                                                                                       "/separate_conditions"
-                                                                                       "/16mad_binary.txt")
+    generate_binary_edgelist("../outputs/separate_conditions/mad/nx-edgelist/16mad_flowering.csv",
+                             "../outputs/separate_conditions/mad/16mad_binary.txt")
     # generate_binary_edgelist("../outputs/separate_conditions/25mad_flowering.csv", "../outputs"
     #                                                                                    "/separate_conditions"
     #                                                                                    "/25mad_binary.txt")

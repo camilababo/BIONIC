@@ -151,15 +151,14 @@ def check_flowering_genes(data_file, flowering_genes_file):
 
     print("Function check_flowering_genes() is running...")
 
+
     flowering_genes = set()
     with open(flowering_genes_file, 'r') as file:
         for line in file:
-            genes = line.strip().split(", ")
-            for gene in genes:
-                flowering_genes.add(gene)
+            flowering_genes.add(line.strip())
 
     # Read the data_file and count the number of flowering genes
-    data_file = pd.read_csv(data_file, sep='\t', header=0, index_col=0)
+    data_file = pd.read_csv(data_file, sep=',', header=0, index_col=0)
     separated_genes = set()
     for gene in data_file.index:
         genes = gene.split(';')
@@ -167,7 +166,6 @@ def check_flowering_genes(data_file, flowering_genes_file):
             separated_genes.add(separated_gene.strip())
 
     matching_genes = flowering_genes.intersection(separated_genes)
-
     num_matching_genes = len(matching_genes)
     percentage_matching_genes = num_matching_genes / len(data_file.index) * 100
 
