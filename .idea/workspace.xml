@@ -7,30 +7,67 @@
     <list default="true" id="71696023-2683-4dc3-a9f5-76999b0f6a1f" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-edit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_interactions.json" beforeDir="false" afterPath="$PROJECT_DIR$/gene_mapping/florid_complexes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_scrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/gene_mapping/florid_scrapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/train_interactions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/compute_edge_weight.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/input_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_files/input_net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/16mad_pn995_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/16mad_pn995_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/16mad_pn999_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/16mad_pn999_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/16mad_pn99_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/16mad_pn99_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/25mad_pn999_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/25mad_pn999_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/edgelist_16mad_pn999.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/edgelist_16mad_pn999.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/edgelist_16mad_pn999_probe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/edgelist_16mad_pn999_probe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/edgelist_25mad_pn999.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/edgelist_25mad_pn999.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/edgelist_25mad_pn999_probe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/edgelist_25mad_pn999_probe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/scaled_sixteen_mad.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/scaled_sixteen_mad.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/scaled_sixteen_mad_probe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/scaled_sixteen_mad_probe.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/scaled_twenty_five_mad.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/scaled_twenty_five_mad.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/scaled_twenty_five_mad_probe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/scaled_twenty_five_mad_probe.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/sixteen_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/sixteen_df.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/sixteen_df_probe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/sixteen_df_probe.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/twenty_five_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/twenty_five_df.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/separate_conditions/twenty_five_df_probe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/separate_conditions/mad/twenty_five_df_probe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aracne/ARACNE Inference 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aracne/filtered_features_features-dup.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aracne/filtered_probe_features-dup.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/binary_run/16mad_binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/binary_run/16mad_binary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/binary_run/25mad_binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/binary_run/25mad_binary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/filtered-config_module_detection_AMI1.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/filtered-config_module_detection_AMI1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/filtered-config_module_detection_AMI2.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/filtered-config_module_detection_AMI2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/filtered-config_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/filtered-config_module_detection_ARI.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/florid_labels.json" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/florid_labels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/string_file_to_eval_stand.py" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/string_file_to_eval_stand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/switch_complex_label_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/switch_complex_label_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/true_predictions_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/true_predictions_labels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_difconfig_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_difconfig_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_difconfig_run_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_difconfig_run_module_detection_ARI.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_difcongif_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_difcongif_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_newconfig_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_newconfig_module_detection_ARI.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/labeled-run_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/labeled-run_module_detection_ARI.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/filtered_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/filtered_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_network_weights.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/filtered_features_network_weights.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/potent_induction_scaled.json" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/potent_induction_scaled.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/features-cluster-labels1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/features-cluster-labels1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered-config_module_detection_AMI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered-config_module_detection_AMI.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered-run-AMI1.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered-run-AMI1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered-run-AMI2.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered-run-AMI2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered_probe_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered_probe_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered_probe_weights.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered_probe_weights.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered_probes_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered_probes_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/network-cluster-labels1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/network-cluster-labels1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_label_set_1_predictions.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_label_set_1_predictions.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_loss.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_loss.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/feature-cluster-labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/feature-cluster-labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_config_module_detection.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_config_module_detection.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_config_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_config_module_detection_ARI.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_features_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_features_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/network-cluster-labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/network-cluster-labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/non_filtered/test_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/non_filtered/test_features_features.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/non_filtered/test_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/non_filtered/test_features_loss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/random_run/16mad_random.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/random_run/16mad_random.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bionic/random_run/25mad_random.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/random_run/25mad_random.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/flor_id_flowering_genes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flor_id_flowering_genes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/flor_id_flowering_genes.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flor_id_flowering_genes.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_complexes.json" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/florid_complexes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_scrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/florid_scrapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/flowerid_locus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flowerid_locus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/flowering_genes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flowering_genes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/gene_symbol_mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/gene_symbol_mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/geneid_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/ncbi_id_mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/ncbi_id_mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gene_mapping/symbol_test_num.csv" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/symbol_test_num.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pre-process-input-network/data_pre_processing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/input_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre-process-input-network/old_process_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/process_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre-process-input-network/new_process_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/rec-input-net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_files/semicolon-entries.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +80,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -79,28 +116,29 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anaca/PycharmProjects/module-dection/aracne&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anaca/Desktop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals" />
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\aracne" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\input_files" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\separate_conditions\bens_rec" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\separate_conditions\nx_sparsed_graph" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\separate_conditions\mad\nx-edgelist" />
-      <recent name="C:\Users\anaca\PycharmProjects\module-dection" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\ben" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals\go-annotation" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\continuous_light" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals\go-annotation\processed_annotations" />
+      <recent name="C:\Users\anaca\PycharmProjects\module-dection\outputs\separate_conditions\nx_sparsed_graph\all_fgenes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.process_network">
+  <component name="RunManager" selected="Python.geneid_mapping">
     <configuration name="geneid_mapping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input_net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="new_process_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +174,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_files/input_net.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\anaca\PycharmProjects\module-dection\input_files\new_process_network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="old_process_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module-dection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +196,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_files/process_network.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\anaca\PycharmProjects\module-dection\input_files\old_process_network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,8 +251,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.process_network" />
-        <item itemvalue="Python.input_net" />
+        <item itemvalue="Python.new_process_network" />
+        <item itemvalue="Python.old_process_network" />
         <item itemvalue="Python.true_predictions_labels" />
         <item itemvalue="Python.string_file_to_eval_stand" />
         <item itemvalue="Python.geneid_mapping" />
@@ -285,7 +323,39 @@
       <workItem from="1687506855700" duration="20939000" />
       <workItem from="1687773050840" duration="17184000" />
       <workItem from="1687855414196" duration="13897000" />
-      <workItem from="1687944375352" duration="1188000" />
+      <workItem from="1687944375352" duration="5827000" />
+      <workItem from="1688042803924" duration="2031000" />
+      <workItem from="1688118298312" duration="13227000" />
+      <workItem from="1688219500978" duration="3614000" />
+      <workItem from="1688373131533" duration="20516000" />
+      <workItem from="1688457616882" duration="15211000" />
+      <workItem from="1688543298813" duration="11654000" />
+      <workItem from="1688633376487" duration="5209000" />
+      <workItem from="1688728969798" duration="4409000" />
+      <workItem from="1688982720105" duration="1214000" />
+      <workItem from="1689163827632" duration="619000" />
+      <workItem from="1689169362699" duration="3478000" />
+      <workItem from="1689246424978" duration="708000" />
+      <workItem from="1689250471906" duration="3255000" />
+      <workItem from="1689858932829" duration="769000" />
+      <workItem from="1689942687132" duration="744000" />
+      <workItem from="1693474453639" duration="4182000" />
+      <workItem from="1693559696628" duration="4770000" />
+      <workItem from="1693912130478" duration="862000" />
+      <workItem from="1693996749963" duration="1197000" />
+      <workItem from="1695291907981" duration="104000" />
+      <workItem from="1695383902249" duration="1156000" />
+      <workItem from="1695645855031" duration="17000" />
+      <workItem from="1696590940703" duration="3260000" />
+      <workItem from="1696846804544" duration="219000" />
+      <workItem from="1697032800276" duration="892000" />
+      <workItem from="1697211106397" duration="2196000" />
+      <workItem from="1697464869388" duration="61000" />
+      <workItem from="1697646849080" duration="108000" />
+      <workItem from="1698070918263" duration="663000" />
+      <workItem from="1698072960517" duration="874000" />
+      <workItem from="1698074066271" duration="758000" />
+      <workItem from="1698505730984" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1681474973306</created>
@@ -364,7 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686229240250</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updates">
+      <created>1687963687466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687963687470</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updates">
+      <created>1687963743193</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687963743193</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,21 +469,11 @@
     <MESSAGE value="updates" />
     <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/anaca/PycharmProjects/module-dection/input_files/data_pre_processing.ipynb</url>
-          <line>566</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/module_dection$process_annotated_genes_eval_standard.coverage" NAME="process-annotated-genes-eval-standard Coverage Results" MODIFIED="1688386168468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bionic/bionic_evals" />
     <SUITE FILE_PATH="coverage/module_dection$string_file_to_eval_stand.coverage" NAME="string_file_to_eval_stand Coverage Results" MODIFIED="1684153420237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bionic" />
     <SUITE FILE_PATH="coverage/module_dection$check_flowering_genes.coverage" NAME="check_flowering_genes Coverage Results" MODIFIED="1681487933759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gene_mapping" />
-    <SUITE FILE_PATH="coverage/module_dection$process_network.coverage" NAME="process_network Coverage Results" MODIFIED="1687856784430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_files" />
+    <SUITE FILE_PATH="coverage/module_dection$process_network.coverage" NAME="process_network Coverage Results" MODIFIED="1688126301977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_files" />
     <SUITE FILE_PATH="coverage/module_dection$geneid_mapping.coverage" NAME="geneid_mapping Coverage Results" MODIFIED="1681659409138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gene_mapping" />
     <SUITE FILE_PATH="coverage/module_dection$true_predictions_labels.coverage" NAME="true_predictions_labels Coverage Results" MODIFIED="1685443295922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bionic/bionic_evals" />
     <SUITE FILE_PATH="coverage/module_dection$input_net.coverage" NAME="input_net Coverage Results" MODIFIED="1686060701129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_files" />

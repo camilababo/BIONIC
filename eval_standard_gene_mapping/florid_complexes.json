@@ -1,0 +1,3139 @@
+{
+    "AT4G24540": {
+        "upstream_ids": [
+            "AT2G45660",
+            "AT1G69120",
+            "AT1G24260",
+            "AT5G20240",
+            "AT3G54340",
+            "AT5G14170",
+            "AT2G18040",
+            "AT2G45640"
+        ],
+        "downstream_ids": [
+            "AT2G45660",
+            "AT5G61850",
+            "AT1G69120",
+            "AT1G24260"
+        ]
+    },
+    "AT2G13540": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G18450": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G33520": {
+        "upstream_ids": [
+            "AT3G12810"
+        ],
+        "downstream_ids": [
+            "AT5G37055"
+        ]
+    },
+    "AT5G48300": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G13790": {
+        "upstream_ids": [
+            "AT4G36920"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835",
+            "AT2G45660",
+            "AT1G75060",
+            "AT3G57390"
+        ]
+    },
+    "AT3G57230": {
+        "upstream_ids": [
+            "AT2G22540"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G22630": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G69120",
+            "AT5G61850"
+        ]
+    },
+    "AT3G57390": {
+        "upstream_ids": [
+            "AT5G13790"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835",
+            "AT1G75060",
+            "AT1G19330"
+        ]
+    },
+    "AT4G22950": {
+        "upstream_ids": [
+            "AT5G57380",
+            "AT3G20740",
+            "AT5G58230",
+            "AT2G23380",
+            "AT5G51230",
+            "AT3G44680"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G45650": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G79430": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G06850"
+        ]
+    },
+    "AT1G69120": {
+        "upstream_ids": [
+            "AT2G22630",
+            "AT1G69120",
+            "AT1G24260",
+            "AT5G20240",
+            "AT3G54340",
+            "AT1G65480",
+            "AT4G35900",
+            "AT4G36920",
+            "AT3G54990",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT5G61850",
+            "AT4G24540",
+            "AT2G22540",
+            "AT3G61250",
+            "AT2G42200",
+            "AT4G18960",
+            "AT2G01570",
+            "AT5G03840",
+            "AT5G14170",
+            "AT1G43850",
+            "AT4G32551",
+            "AT5G02030"
+        ],
+        "downstream_ids": [
+            "AT4G24540",
+            "AT2G22540",
+            "AT2G45660",
+            "AT4G35900",
+            "AT2G28550",
+            "AT2G42830",
+            "AT1G23420",
+            "AT1G69120",
+            "AT5G03680",
+            "AT3G23130",
+            "AT4G27330",
+            "AT1G30950",
+            "AT4G18960",
+            "AT5G61850",
+            "AT5G03840",
+            "AT5G67180",
+            "AT1G25560",
+            "AT1G68840",
+            "AT2G17770",
+            "AT4G36920",
+            "AT1G24260",
+            "AT5G20240",
+            "AT3G54340",
+            "AT1G43850",
+            "AT4G32551"
+        ]
+    },
+    "AT4G36920": {
+        "upstream_ids": [
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT4G36920",
+            "AT3G54990",
+            "AT5G61850",
+            "AT5G02030",
+            "AT1G69120",
+            "AT1G15750"
+        ],
+        "downstream_ids": [
+            "AT1G69120",
+            "AT2G45660",
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120",
+            "AT5G67180",
+            "AT4G36920",
+            "AT1G24260",
+            "AT3G54340",
+            "AT4G18960",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G13790",
+            "AT2G33860",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835"
+        ]
+    },
+    "AT1G51450": {
+        "upstream_ids": [
+            "AT3G49660"
+        ],
+        "downstream_ids": []
+    },
+    "AT3G01090": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G44160",
+            "AT5G03680",
+            "AT3G26790"
+        ]
+    },
+    "AT2G27550": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G35900"
+        ]
+    },
+    "AT1G04870": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G42400": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G65480"
+        ]
+    },
+    "AT2G37630": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT4G25420",
+            "AT1G65480"
+        ]
+    },
+    "AT2G45430": {
+        "upstream_ids": [
+            "AT4G38130"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G66650": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G39660"
+        ]
+    },
+    "AT1G54440": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G35910": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G60410": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G38960": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT2G32950",
+            "AT2G25930"
+        ]
+    },
+    "AT5G14170": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT5G61850",
+            "AT1G30950",
+            "AT5G03840",
+            "AT4G24540",
+            "AT1G69120",
+            "AT3G54340",
+            "AT1G24260",
+            "AT2G45660"
+        ]
+    },
+    "AT3G23060": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G46020": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G18550": {
+        "upstream_ids": [
+            "AT1G65480",
+            "AT4G20370"
+        ],
+        "downstream_ids": []
+    },
+    "AT5G62040": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G23100": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G50700": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G35900"
+        ]
+    },
+    "AT2G17290": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G35900"
+        ]
+    },
+    "AT5G44200": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G60250": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT2G46830",
+            "AT1G01060"
+        ]
+    },
+    "AT2G44680": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT2G46830"
+        ]
+    },
+    "AT2G46830": {
+        "upstream_ids": [
+            "AT5G08330",
+            "AT2G44680",
+            "AT5G02810",
+            "AT2G46790",
+            "AT3G60250",
+            "AT5G64170",
+            "AT3G54500"
+        ],
+        "downstream_ids": [
+            "AT1G22770",
+            "AT5G08330",
+            "AT5G02810",
+            "AT2G46790",
+            "AT5G24470",
+            "AT5G61380",
+            "AT1G01060"
+        ]
+    },
+    "AT1G71800": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT1G17760": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT4G38680": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G15840": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT5G62430",
+            "AT5G39660",
+            "AT3G47500",
+            "AT2G34140",
+            "AT1G69570",
+            "AT1G68050",
+            "AT1G09570",
+            "AT2G46340",
+            "AT4G11110",
+            "AT3G15354",
+            "AT1G53090",
+            "AT3G19140",
+            "AT1G35460",
+            "AT4G09180",
+            "AT1G51140",
+            "AT2G42280",
+            "AT5G48890",
+            "AT5G58230",
+            "AT1G25540",
+            "AT2G47700",
+            "AT5G23730",
+            "AT5G57360",
+            "AT4G38960",
+            "AT2G39810",
+            "AT2G32950",
+            "AT1G02740",
+            "AT1G72390",
+            "AT2G28550"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G22630",
+            "AT4G20370",
+            "AT1G32900",
+            "AT2G37630",
+            "AT2G38880",
+            "AT5G47640",
+            "AT4G14540",
+            "AT2G47810",
+            "AT1G21970",
+            "AT5G47670",
+            "AT3G53340",
+            "AT3G48590",
+            "AT1G56170",
+            "AT1G08970",
+            "AT5G63470",
+            "AT1G54830",
+            "AT5G50470",
+            "AT5G50480",
+            "AT5G50490",
+            "AT1G22770",
+            "AT5G10030"
+        ]
+    },
+    "AT5G57660": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT3G07650": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT2G32950": {
+        "upstream_ids": [
+            "AT4G08920",
+            "AT1G04400",
+            "AT5G46210",
+            "AT2G25930",
+            "AT4G38960"
+        ],
+        "downstream_ids": [
+            "AT1G22770",
+            "AT5G15840",
+            "AT2G46340",
+            "AT4G11110",
+            "AT3G15354",
+            "AT1G53090"
+        ]
+    },
+    "AT4G08920": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT2G32950",
+            "AT2G46340",
+            "AT4G11110",
+            "AT3G15354",
+            "AT1G53090"
+        ]
+    },
+    "AT1G04400": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G34530",
+            "AT5G48560",
+            "AT1G10120",
+            "AT1G26260",
+            "AT2G32950",
+            "AT2G46340",
+            "AT4G11110",
+            "AT3G15354",
+            "AT1G53090"
+        ]
+    },
+    "AT4G34530": {
+        "upstream_ids": [
+            "AT1G04400"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT5G48560": {
+        "upstream_ids": [
+            "AT1G04400"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G10120": {
+        "upstream_ids": [
+            "AT1G04400"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G26260": {
+        "upstream_ids": [
+            "AT1G04400"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G26830": {
+        "upstream_ids": [
+            "AT4G26440",
+            "AT4G00650"
+        ],
+        "downstream_ids": [
+            "AT4G00650"
+        ]
+    },
+    "AT5G46210": {
+        "upstream_ids": [
+            "AT2G19520",
+            "AT2G23380"
+        ],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G65480",
+            "AT2G32950",
+            "AT2G46340",
+            "AT3G15354",
+            "AT1G53090"
+        ]
+    },
+    "AT2G23380": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G22950",
+            "AT1G65480",
+            "AT5G10140",
+            "AT4G18960",
+            "AT1G24260",
+            "AT5G46210",
+            "AT4G16845",
+            "AT5G51230",
+            "AT2G35670"
+        ]
+    },
+    "AT5G64960": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT5G62430": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT1G68050",
+            "AT2G18915",
+            "AT5G59560"
+        ],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G65480",
+            "AT2G18915"
+        ]
+    },
+    "AT5G39660": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT1G68050",
+            "AT2G18915",
+            "AT1G66650"
+        ],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G65480",
+            "AT2G18915"
+        ]
+    },
+    "AT3G47500": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT1G68050",
+            "AT2G18915"
+        ],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G65480",
+            "AT2G18915"
+        ]
+    },
+    "AT2G34140": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT1G68050",
+            "AT2G18915"
+        ],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G65480",
+            "AT2G18915"
+        ]
+    },
+    "AT1G69570": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT1G68050",
+            "AT2G18915"
+        ],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G65480",
+            "AT2G18915"
+        ]
+    },
+    "AT3G19140": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT4G10180": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G22770",
+            "AT2G19520"
+        ]
+    },
+    "AT1G01040": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G43920": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G20320": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G44110": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G22140": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT2G25930": {
+        "upstream_ids": [
+            "AT2G25930",
+            "AT2G40080",
+            "AT5G59570",
+            "AT3G46640",
+            "AT3G09600",
+            "AT4G38960"
+        ],
+        "downstream_ids": [
+            "AT5G02810",
+            "AT2G46790",
+            "AT2G25930",
+            "AT2G40080",
+            "AT5G59570",
+            "AT3G46640",
+            "AT1G22770",
+            "AT2G43010",
+            "AT3G59060",
+            "AT2G32950",
+            "AT2G22540"
+        ]
+    },
+    "AT2G40080": {
+        "upstream_ids": [
+            "AT2G25930",
+            "AT2G40080",
+            "AT5G59570",
+            "AT3G46640",
+            "AT3G09600"
+        ],
+        "downstream_ids": [
+            "AT2G25930",
+            "AT2G40080",
+            "AT5G59570",
+            "AT3G46640",
+            "AT2G43010",
+            "AT3G59060",
+            "AT1G22770"
+        ]
+    },
+    "AT5G04240": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G79730": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT2G06210": {
+        "upstream_ids": [
+            "AT5G61150",
+            "AT4G29830",
+            "AT3G22590"
+        ],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT1G77300": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT2G03500": {
+        "upstream_ids": [
+            "AT2G22540"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT3G20810"
+        ]
+    },
+    "AT4G15880": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G39810": {
+        "upstream_ids": [
+            "AT1G72390",
+            "AT2G39810"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT5G15840",
+            "AT2G19520",
+            "AT3G04610",
+            "AT2G39810"
+        ]
+    },
+    "AT1G08260": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G11530": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G18960",
+            "AT5G17690"
+        ]
+    },
+    "AT5G51230": {
+        "upstream_ids": [
+            "AT2G23380",
+            "AT4G02020"
+        ],
+        "downstream_ids": [
+            "AT4G22950",
+            "AT4G18960"
+        ]
+    },
+    "AT5G23150": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G18960",
+            "AT5G10140",
+            "AT1G77080"
+        ]
+    },
+    "AT4G16280": {
+        "upstream_ids": [
+            "AT5G40490",
+            "AT4G16280"
+        ],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT4G16280",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT2G22540",
+            "AT2G43010",
+            "AT5G13480"
+        ]
+    },
+    "AT4G35900": {
+        "upstream_ids": [
+            "AT1G69120",
+            "AT1G24260",
+            "AT5G20240",
+            "AT3G54340",
+            "AT2G17290",
+            "AT1G50700",
+            "AT5G10140",
+            "AT5G61850",
+            "AT2G27550",
+            "AT1G65480",
+            "AT5G03840",
+            "AT4G20370"
+        ],
+        "downstream_ids": [
+            "AT5G60910",
+            "AT2G45660",
+            "AT1G69120",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270"
+        ]
+    },
+    "AT2G17770": {
+        "upstream_ids": [
+            "AT5G61850",
+            "AT1G69120",
+            "AT1G65480",
+            "AT4G20370"
+        ],
+        "downstream_ids": []
+    },
+    "AT3G20740": {
+        "upstream_ids": [
+            "AT4G16845",
+            "AT3G24440"
+        ],
+        "downstream_ids": [
+            "AT4G22950",
+            "AT4G18960",
+            "AT1G02580"
+        ]
+    },
+    "AT2G21070": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G68050": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT2G18915"
+        ],
+        "downstream_ids": [
+            "AT5G62430",
+            "AT5G39660",
+            "AT3G47500",
+            "AT2G34140",
+            "AT1G69570",
+            "AT5G15840",
+            "AT5G61380",
+            "AT2G28550"
+        ]
+    },
+    "AT2G30120": {
+        "upstream_ids": [
+            "AT4G00650"
+        ],
+        "downstream_ids": [
+            "AT2G33835"
+        ]
+    },
+    "AT1G35460": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT4G09180": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT1G51140": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT2G42280": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT5G10140": {
+        "upstream_ids": [
+            "AT2G31650",
+            "AT1G05830",
+            "AT5G42400",
+            "AT5G14170",
+            "AT5G64960",
+            "AT2G23380",
+            "AT5G10140",
+            "AT4G16280",
+            "AT2G43410",
+            "AT5G13480",
+            "AT1G17760",
+            "AT1G71800",
+            "AT5G46210",
+            "AT4G10180",
+            "AT1G79730",
+            "AT2G06210",
+            "AT1G30970",
+            "AT4G00650",
+            "AT3G02885",
+            "AT5G23150",
+            "AT2G44950",
+            "AT1G14400",
+            "AT2G02760",
+            "AT3G26744",
+            "AT2G34880",
+            "AT4G00830",
+            "AT3G22590",
+            "AT3G12810",
+            "AT3G28730",
+            "AT4G10710",
+            "AT3G01890",
+            "AT3G49600",
+            "AT2G30140",
+            "AT1G28520",
+            "AT2G42400",
+            "AT3G49660",
+            "AT3G10390",
+            "AT5G45600",
+            "AT5G17690",
+            "AT5G61060",
+            "AT5G65070",
+            "AT5G65060"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660",
+            "AT5G10140",
+            "AT1G24260",
+            "AT3G54340",
+            "AT3G54990",
+            "AT5G67180",
+            "AT3G57920",
+            "AT2G28550",
+            "AT4G35900",
+            "AT2G22540",
+            "AT1G77080"
+        ]
+    },
+    "AT3G10390": {
+        "upstream_ids": [
+            "AT5G63110",
+            "AT5G61060"
+        ],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT3G04610": {
+        "upstream_ids": [
+            "AT2G39810"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G77080": {
+        "upstream_ids": [
+            "AT5G23150",
+            "AT5G61060",
+            "AT5G65060",
+            "AT5G65070",
+            "AT5G65050",
+            "AT5G10140"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT1G24260",
+            "AT2G45660",
+            "AT2G22540"
+        ]
+    },
+    "AT1G65480": {
+        "upstream_ids": [
+            "AT2G27550",
+            "AT5G62430",
+            "AT5G39660",
+            "AT3G47500",
+            "AT2G34140",
+            "AT1G69570",
+            "AT1G04400",
+            "AT4G34530",
+            "AT5G48560",
+            "AT1G10120",
+            "AT1G26260",
+            "AT2G38880",
+            "AT5G47640",
+            "AT4G14540",
+            "AT2G47810",
+            "AT1G21970",
+            "AT5G47670",
+            "AT3G53340",
+            "AT3G48590",
+            "AT5G57660",
+            "AT3G07650",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT1G22770",
+            "AT1G25540",
+            "AT2G43010",
+            "AT1G06040",
+            "AT1G25560",
+            "AT1G68840",
+            "AT1G28520",
+            "AT2G42400",
+            "AT3G57390",
+            "AT5G10140",
+            "AT2G22540",
+            "AT5G15840",
+            "AT2G37630",
+            "AT2G23380",
+            "AT1G56170",
+            "AT1G08970",
+            "AT5G63470",
+            "AT1G54830",
+            "AT5G50470",
+            "AT5G50480",
+            "AT5G50490",
+            "AT5G46210",
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120",
+            "AT2G39810",
+            "AT1G72390",
+            "AT3G48430",
+            "AT5G17690",
+            "AT5G10030",
+            "AT5G13790",
+            "AT1G75060",
+            "AT1G19330",
+            "AT2G45430",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G42400",
+            "AT2G31650",
+            "AT1G05830",
+            "AT1G62830",
+            "AT3G13682",
+            "AT1G77300",
+            "AT4G22140",
+            "AT5G04240",
+            "AT4G20400",
+            "AT4G37280",
+            "AT1G02740",
+            "AT3G20810",
+            "AT2G45650",
+            "AT2G03500",
+            "AT1G77080",
+            "AT5G65060",
+            "AT3G28910",
+            "AT3G59060",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT4G25530"
+        ],
+        "downstream_ids": [
+            "AT2G45660",
+            "AT1G69120",
+            "AT5G60910",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT5G06850",
+            "AT3G18550",
+            "AT4G35900",
+            "AT2G17770"
+        ]
+    },
+    "AT5G24860": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G25530": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT5G61920": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G43410": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT4G00650": {
+        "upstream_ids": [
+            "AT1G26830",
+            "AT2G46260",
+            "AT3G61600"
+        ],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT2G30120",
+            "AT1G30970",
+            "AT5G16320",
+            "AT2G33835",
+            "AT2G46260",
+            "AT3G61600",
+            "AT1G26830"
+        ]
+    },
+    "AT5G16320": {
+        "upstream_ids": [
+            "AT4G00650",
+            "AT1G30970"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G31814": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G33835": {
+        "upstream_ids": [
+            "AT4G00650",
+            "AT2G30120"
+        ],
+        "downstream_ids": []
+    },
+    "AT5G60910": {
+        "upstream_ids": [
+            "AT1G65480",
+            "AT4G35900",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT5G61850"
+        ],
+        "downstream_ids": [
+            "AT5G61850",
+            "AT2G45660"
+        ]
+    },
+    "AT5G06850": {
+        "upstream_ids": [
+            "AT1G79430",
+            "AT1G65480"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G19520": {
+        "upstream_ids": [
+            "AT4G10180",
+            "AT2G39810",
+            "AT5G61060"
+        ],
+        "downstream_ids": [
+            "AT2G22540",
+            "AT5G46210"
+        ]
+    },
+    "AT5G13480": {
+        "upstream_ids": [
+            "AT4G16280"
+        ],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT3G05120": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490"
+        ]
+    },
+    "AT3G63010": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490"
+        ]
+    },
+    "AT5G27320": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490"
+        ]
+    },
+    "AT4G02780": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G79460": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G02885": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT1G14920": {
+        "upstream_ids": [
+            "AT3G05120",
+            "AT3G63010",
+            "AT5G27320"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT2G42200",
+            "AT2G33810",
+            "AT3G15270",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G61850",
+            "AT2G43010"
+        ]
+    },
+    "AT1G78440": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G30040": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G34555": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G47990": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G02400": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G50960": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G21200": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G25420": {
+        "upstream_ids": [
+            "AT2G37630",
+            "AT5G18240",
+            "AT3G04030",
+            "AT1G25560",
+            "AT1G68840"
+        ],
+        "downstream_ids": []
+    },
+    "AT5G51810": {
+        "upstream_ids": [
+            "AT5G18240",
+            "AT3G04030",
+            "AT1G25560",
+            "AT1G68840"
+        ],
+        "downstream_ids": []
+    },
+    "AT5G07200": {
+        "upstream_ids": [
+            "AT5G18240",
+            "AT3G04030",
+            "AT1G25560",
+            "AT1G68840"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G15550": {
+        "upstream_ids": [
+            "AT1G25560",
+            "AT1G68840"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G80340": {
+        "upstream_ids": [
+            "AT1G25560",
+            "AT1G68840"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G22770": {
+        "upstream_ids": [
+            "AT2G46830",
+            "AT5G48890",
+            "AT2G25930",
+            "AT5G59570",
+            "AT3G46640",
+            "AT2G32950",
+            "AT5G61380",
+            "AT4G10180",
+            "AT2G40080",
+            "AT5G15840",
+            "AT5G57360"
+        ],
+        "downstream_ids": [
+            "AT5G62430",
+            "AT5G39660",
+            "AT3G47500",
+            "AT2G34140",
+            "AT1G69570",
+            "AT5G15840",
+            "AT1G65480",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT1G68050",
+            "AT5G57360",
+            "AT2G18915",
+            "AT2G22540",
+            "AT1G25560",
+            "AT1G68840"
+        ]
+    },
+    "AT5G63960": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G21660": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G20570": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G44190": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G29130": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G64610": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G09740": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G61060": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G77080",
+            "AT2G19520",
+            "AT3G10390"
+        ]
+    },
+    "AT5G63110": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT3G10390"
+        ]
+    },
+    "AT3G44680": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G22950"
+        ]
+    },
+    "AT3G54560": {
+        "upstream_ids": [
+            "AT5G37055",
+            "AT3G12810"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G38810": {
+        "upstream_ids": [
+            "AT5G37055",
+            "AT3G12810"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G52740": {
+        "upstream_ids": [
+            "AT5G37055",
+            "AT3G12810"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G44950": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G14400",
+            "AT1G55250",
+            "AT2G02760"
+        ]
+    },
+    "AT1G55250": {
+        "upstream_ids": [
+            "AT2G44950"
+        ],
+        "downstream_ids": [
+            "AT2G02760",
+            "AT1G14400"
+        ]
+    },
+    "AT5G40490": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G16280"
+        ]
+    },
+    "AT4G32980": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G40060": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G45600": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT2G31650": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G18960",
+            "AT5G10140",
+            "AT1G65480"
+        ]
+    },
+    "AT2G48160": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G63070": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G49660": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G51450"
+        ]
+    },
+    "AT5G44160": {
+        "upstream_ids": [
+            "AT3G01090"
+        ],
+        "downstream_ids": [
+            "AT3G43190"
+        ]
+    },
+    "AT3G26744": {
+        "upstream_ids": [
+            "AT2G45660"
+        ],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT2G45660"
+        ]
+    },
+    "AT3G57300": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G20400": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G30580",
+            "AT1G06770",
+            "AT3G10480",
+            "AT3G10490"
+        ]
+    },
+    "AT3G20810": {
+        "upstream_ids": [
+            "AT2G03500"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT3G45880": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G34880": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT1G01060": {
+        "upstream_ids": [
+            "AT3G46640",
+            "AT5G02810",
+            "AT2G46790",
+            "AT3G22380",
+            "AT5G61380",
+            "AT3G60250",
+            "AT2G46830",
+            "AT5G64170",
+            "AT3G54500"
+        ],
+        "downstream_ids": [
+            "AT3G46640"
+        ]
+    },
+    "AT5G48890": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G22770"
+        ]
+    },
+    "AT5G61850": {
+        "upstream_ids": [
+            "AT2G22630",
+            "AT2G45660",
+            "AT4G24540",
+            "AT2G22540",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT5G60910",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT5G61850",
+            "AT5G14170",
+            "AT1G69120",
+            "AT5G03840",
+            "AT5G02030",
+            "AT3G61250"
+        ],
+        "downstream_ids": [
+            "AT4G18960",
+            "AT3G61250",
+            "AT1G26310",
+            "AT1G69120",
+            "AT4G36920",
+            "AT4G35900",
+            "AT2G17770",
+            "AT5G03840",
+            "AT1G53160",
+            "AT3G15270",
+            "AT1G27360",
+            "AT5G60910",
+            "AT5G47640",
+            "AT5G61850",
+            "AT1G25560",
+            "AT5G67180",
+            "AT3G54340",
+            "AT1G24260",
+            "AT1G30950"
+        ]
+    },
+    "AT4G00830": {
+        "upstream_ids": [
+            "AT5G17690"
+        ],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT3G58780"
+        ]
+    },
+    "AT1G12910": {
+        "upstream_ids": [
+            "AT2G46790"
+        ],
+        "downstream_ids": [
+            "AT2G46790"
+        ]
+    },
+    "AT3G26640": {
+        "upstream_ids": [
+            "AT2G46790"
+        ],
+        "downstream_ids": [
+            "AT2G46790"
+        ]
+    },
+    "AT2G46260": {
+        "upstream_ids": [
+            "AT4G00650"
+        ],
+        "downstream_ids": [
+            "AT4G00650"
+        ]
+    },
+    "AT3G61600": {
+        "upstream_ids": [
+            "AT4G00650"
+        ],
+        "downstream_ids": [
+            "AT4G00650"
+        ]
+    },
+    "AT2G18915": {
+        "upstream_ids": [
+            "AT1G22770",
+            "AT5G62430",
+            "AT5G39660",
+            "AT3G47500",
+            "AT2G34140",
+            "AT1G69570"
+        ],
+        "downstream_ids": [
+            "AT5G62430",
+            "AT5G39660",
+            "AT3G47500",
+            "AT2G34140",
+            "AT1G69570",
+            "AT5G61380",
+            "AT1G68050",
+            "AT2G28550"
+        ]
+    },
+    "AT1G62830": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT3G13682": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT4G02560": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G46640": {
+        "upstream_ids": [
+            "AT1G01060",
+            "AT2G25930",
+            "AT2G40080",
+            "AT5G59570",
+            "AT3G46640",
+            "AT3G09600",
+            "AT5G61380"
+        ],
+        "downstream_ids": [
+            "AT1G01060",
+            "AT5G02810",
+            "AT2G46790",
+            "AT2G25930",
+            "AT2G40080",
+            "AT5G59570",
+            "AT3G46640",
+            "AT1G22770",
+            "AT2G43010",
+            "AT3G59060"
+        ]
+    },
+    "AT5G65050": {
+        "upstream_ids": [
+            "AT5G65050",
+            "AT2G22540"
+        ],
+        "downstream_ids": [
+            "AT5G65050",
+            "AT1G77080"
+        ]
+    },
+    "AT5G65060": {
+        "upstream_ids": [
+            "AT5G65070"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660",
+            "AT1G77080",
+            "AT5G10140"
+        ]
+    },
+    "AT5G65070": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G77080",
+            "AT5G65060"
+        ]
+    },
+    "AT5G65080": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G00450": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G55325": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G04920": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G22370": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G01460": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G25095": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT4G30972": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT4G31877": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT5G10945": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT5G11977": {
+        "upstream_ids": [
+            "AT5G13790",
+            "AT3G57390",
+            "AT4G36920",
+            "AT2G45660"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT5G26147": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT2G19425": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT5G55835": {
+        "upstream_ids": [
+            "AT4G36920",
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT1G27370",
+            "AT3G57920"
+        ]
+    },
+    "AT2G28056": {
+        "upstream_ids": [
+            "AT4G16280",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT2G42200",
+            "AT1G27370",
+            "AT1G22770",
+            "AT2G22540",
+            "AT4G36920"
+        ],
+        "downstream_ids": [
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120",
+            "AT1G65480",
+            "AT4G36920"
+        ]
+    },
+    "AT5G04275": {
+        "upstream_ids": [
+            "AT4G16280",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT2G42200",
+            "AT1G27370",
+            "AT1G22770",
+            "AT2G22540",
+            "AT4G36920"
+        ],
+        "downstream_ids": [
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120",
+            "AT1G65480",
+            "AT4G36920"
+        ]
+    },
+    "AT3G11435": {
+        "upstream_ids": [
+            "AT4G16280",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT2G42200",
+            "AT1G27370",
+            "AT1G22770",
+            "AT2G22540",
+            "AT4G36920"
+        ],
+        "downstream_ids": [
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120",
+            "AT1G65480",
+            "AT4G36920"
+        ]
+    },
+    "AT4G24680": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G37280": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G02740": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT5G15840"
+        ]
+    },
+    "AT5G58230": {
+        "upstream_ids": [
+            "AT3G24440"
+        ],
+        "downstream_ids": [
+            "AT4G22950",
+            "AT4G18960",
+            "AT5G15840"
+        ]
+    },
+    "AT3G28910": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT5G18240": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G25420",
+            "AT5G51810",
+            "AT5G07200",
+            "AT1G60980",
+            "AT1G44090"
+        ]
+    },
+    "AT3G04030": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G25420",
+            "AT5G51810",
+            "AT5G07200",
+            "AT1G60980",
+            "AT1G44090"
+        ]
+    },
+    "AT5G64170": {
+        "upstream_ids": [
+            "AT5G24470",
+            "AT5G61380"
+        ],
+        "downstream_ids": [
+            "AT5G24470",
+            "AT5G61380",
+            "AT2G46830",
+            "AT1G01060",
+            "AT3G09600"
+        ]
+    },
+    "AT3G54500": {
+        "upstream_ids": [
+            "AT5G24470",
+            "AT5G61380"
+        ],
+        "downstream_ids": [
+            "AT5G24470",
+            "AT5G61380",
+            "AT2G46830",
+            "AT1G01060",
+            "AT3G09600"
+        ]
+    },
+    "AT4G03090": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G12840": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G34720": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G38880": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT5G47640": {
+        "upstream_ids": [
+            "AT5G61850",
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT4G14540": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT1G54830": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT5G63470": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT1G08970": {
+        "upstream_ids": [
+            "AT5G15840"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT1G60220": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G10570": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G51820": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G24620": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G12810": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT3G33520",
+            "AT5G37055",
+            "AT2G38810",
+            "AT1G52740",
+            "AT3G54560"
+        ]
+    },
+    "AT1G09570": {
+        "upstream_ids": [
+            "AT1G09570"
+        ],
+        "downstream_ids": [
+            "AT5G15840",
+            "AT1G09530",
+            "AT1G09570"
+        ]
+    },
+    "AT1G25540": {
+        "upstream_ids": [
+            "AT2G18790"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT5G15840"
+        ]
+    },
+    "AT2G18790": {
+        "upstream_ids": [
+            "AT5G35840",
+            "AT4G16250",
+            "AT2G18790",
+            "AT1G28520",
+            "AT2G42400"
+        ],
+        "downstream_ids": [
+            "AT1G25540",
+            "AT2G43010",
+            "AT1G09530",
+            "AT4G18130",
+            "AT2G18790"
+        ]
+    },
+    "AT5G35840": {
+        "upstream_ids": [
+            "AT5G35840"
+        ],
+        "downstream_ids": [
+            "AT1G09530",
+            "AT2G18790",
+            "AT4G18130",
+            "AT5G35840"
+        ]
+    },
+    "AT4G16250": {
+        "upstream_ids": [
+            "AT4G18130"
+        ],
+        "downstream_ids": [
+            "AT2G18790"
+        ]
+    },
+    "AT4G18130": {
+        "upstream_ids": [
+            "AT5G35840",
+            "AT2G18790"
+        ],
+        "downstream_ids": [
+            "AT1G09530",
+            "AT4G16250"
+        ]
+    },
+    "AT2G43010": {
+        "upstream_ids": [
+            "AT2G18790",
+            "AT2G40080",
+            "AT2G25930",
+            "AT3G46640",
+            "AT4G16280",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G72390": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT2G39810",
+            "AT1G65480",
+            "AT5G15840"
+        ]
+    },
+    "AT3G59060": {
+        "upstream_ids": [
+            "AT2G40080",
+            "AT2G25930",
+            "AT3G46640"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT3G22590": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT4G29830",
+            "AT5G61150",
+            "AT2G06210"
+        ]
+    },
+    "AT2G28830": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G46510": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G80070": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G49020": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G60100": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G57360"
+        ]
+    },
+    "AT5G24470": {
+        "upstream_ids": [
+            "AT3G09600",
+            "AT5G64170",
+            "AT3G54500",
+            "AT5G57360",
+            "AT2G46830"
+        ],
+        "downstream_ids": [
+            "AT3G09600",
+            "AT5G64170",
+            "AT3G54500"
+        ]
+    },
+    "AT5G02810": {
+        "upstream_ids": [
+            "AT3G46640",
+            "AT2G25930",
+            "AT2G46830",
+            "AT5G61380"
+        ],
+        "downstream_ids": [
+            "AT2G46830",
+            "AT1G01060",
+            "AT5G61380"
+        ]
+    },
+    "AT2G46790": {
+        "upstream_ids": [
+            "AT3G46640",
+            "AT2G25930",
+            "AT1G12910",
+            "AT3G26640",
+            "AT2G46830",
+            "AT5G61380"
+        ],
+        "downstream_ids": [
+            "AT1G12910",
+            "AT3G26640",
+            "AT2G46830",
+            "AT1G01060",
+            "AT5G61380"
+        ]
+    },
+    "AT1G32230": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G47700": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT3G18990": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G16845": {
+        "upstream_ids": [
+            "AT2G23380",
+            "AT4G02020",
+            "AT3G24440"
+        ],
+        "downstream_ids": [
+            "AT5G57380",
+            "AT3G20740"
+        ]
+    },
+    "AT3G48430": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT2G45660"
+        ]
+    },
+    "AT2G01570": {
+        "upstream_ids": [
+            "AT3G05120",
+            "AT3G63010",
+            "AT5G27320"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT2G42200",
+            "AT2G33810",
+            "AT3G15270",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G61850",
+            "AT1G69120",
+            "AT2G43010"
+        ]
+    },
+    "AT5G23730": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT5G37260": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G66350": {
+        "upstream_ids": [
+            "AT3G05120",
+            "AT3G63010",
+            "AT5G27320"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT2G42200",
+            "AT2G33810",
+            "AT3G15270",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G61850",
+            "AT2G43010"
+        ]
+    },
+    "AT3G03450": {
+        "upstream_ids": [
+            "AT3G05120",
+            "AT3G63010",
+            "AT5G27320"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT2G42200",
+            "AT2G33810",
+            "AT3G15270",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G61850",
+            "AT2G43010"
+        ]
+    },
+    "AT5G17490": {
+        "upstream_ids": [
+            "AT3G05120",
+            "AT3G63010",
+            "AT5G27320"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT2G42200",
+            "AT2G33810",
+            "AT3G15270",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G61850",
+            "AT2G43010"
+        ]
+    },
+    "AT1G06040": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G75060": {
+        "upstream_ids": [
+            "AT5G13790",
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT1G19330": {
+        "upstream_ids": [
+            "AT3G57390"
+        ],
+        "downstream_ids": [
+            "AT1G65480"
+        ]
+    },
+    "AT3G54990": {
+        "upstream_ids": [
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G10140",
+            "AT4G36920",
+            "AT3G54990",
+            "AT2G45660"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT1G69120",
+            "AT2G45660",
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120",
+            "AT5G67180",
+            "AT4G36920",
+            "AT1G15750"
+        ]
+    },
+    "AT2G39250": {
+        "upstream_ids": [
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT4G36920",
+            "AT3G54990",
+            "AT5G02030"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT1G15750"
+        ]
+    },
+    "AT5G59560": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G62430",
+            "AT1G25560",
+            "AT1G68840"
+        ]
+    },
+    "AT5G37055": {
+        "upstream_ids": [
+            "AT3G33520",
+            "AT3G12810"
+        ],
+        "downstream_ids": [
+            "AT2G38810",
+            "AT1G52740",
+            "AT3G54560"
+        ]
+    },
+    "AT1G76710": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G44150": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G57380"
+        ]
+    },
+    "AT4G31120": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G39100": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT2G45660"
+        ]
+    },
+    "AT2G22540": {
+        "upstream_ids": [
+            "AT1G69120",
+            "AT1G24260",
+            "AT5G20240",
+            "AT3G54340",
+            "AT4G16280",
+            "AT2G19520",
+            "AT2G22540",
+            "AT5G10140",
+            "AT1G77080",
+            "AT1G22770",
+            "AT2G25930"
+        ],
+        "downstream_ids": [
+            "AT5G61850",
+            "AT1G65480",
+            "AT2G45660",
+            "AT2G03500",
+            "AT1G24260",
+            "AT1G68840",
+            "AT1G69120",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT2G22540",
+            "AT3G57230",
+            "AT5G65050",
+            "AT5G17690"
+        ]
+    },
+    "AT2G35510": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT2G46340": {
+        "upstream_ids": [
+            "AT4G08920",
+            "AT1G04400",
+            "AT5G46210",
+            "AT2G32950"
+        ],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT3G15354": {
+        "upstream_ids": [
+            "AT4G08920",
+            "AT1G04400",
+            "AT5G46210",
+            "AT2G32950"
+        ],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT1G53090": {
+        "upstream_ids": [
+            "AT4G08920",
+            "AT1G04400",
+            "AT5G46210",
+            "AT2G32950"
+        ],
+        "downstream_ids": [
+            "AT5G15840"
+        ]
+    },
+    "AT4G10710": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT3G57920": {
+        "upstream_ids": [
+            "AT5G10140",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G33810": {
+        "upstream_ids": [
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT2G42200",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835",
+            "AT1G65480",
+            "AT4G35900",
+            "AT2G45660"
+        ],
+        "downstream_ids": [
+            "AT5G60910",
+            "AT5G61850",
+            "AT1G69120",
+            "AT1G65480"
+        ]
+    },
+    "AT1G53160": {
+        "upstream_ids": [
+            "AT2G42200",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835",
+            "AT1G65480",
+            "AT4G35900",
+            "AT2G45660",
+            "AT5G61850"
+        ],
+        "downstream_ids": [
+            "AT5G60910",
+            "AT5G61850",
+            "AT1G69120",
+            "AT1G65480"
+        ]
+    },
+    "AT3G15270": {
+        "upstream_ids": [
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT2G42200",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835",
+            "AT1G65480",
+            "AT4G35900",
+            "AT2G45660",
+            "AT5G61850"
+        ],
+        "downstream_ids": [
+            "AT5G60910",
+            "AT5G61850",
+            "AT1G69120",
+            "AT1G65480"
+        ]
+    },
+    "AT2G42200": {
+        "upstream_ids": [
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT2G42200",
+            "AT2G25095",
+            "AT4G30972",
+            "AT4G31877",
+            "AT5G10945",
+            "AT5G11977",
+            "AT5G26147",
+            "AT2G19425",
+            "AT5G55835"
+        ],
+        "downstream_ids": [
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT2G42200",
+            "AT2G45660",
+            "AT1G69120",
+            "AT5G60910",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435"
+        ]
+    },
+    "AT3G28730": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT2G23740": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G43190": {
+        "upstream_ids": [
+            "AT5G44160"
+        ],
+        "downstream_ids": []
+    },
+    "AT5G06170": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G30970": {
+        "upstream_ids": [
+            "AT4G00650"
+        ],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT5G16320"
+        ]
+    },
+    "AT2G45660": {
+        "upstream_ids": [
+            "AT5G10140",
+            "AT2G22540",
+            "AT1G65480",
+            "AT4G35900",
+            "AT1G62360",
+            "AT4G20370",
+            "AT5G60910",
+            "AT2G42200",
+            "AT3G48430",
+            "AT2G38880",
+            "AT5G47640",
+            "AT4G14540",
+            "AT2G47810",
+            "AT1G21970",
+            "AT5G47670",
+            "AT3G53340",
+            "AT3G48590",
+            "AT1G56170",
+            "AT1G08970",
+            "AT5G63470",
+            "AT1G54830",
+            "AT5G50470",
+            "AT5G50480",
+            "AT5G50490",
+            "AT2G45660",
+            "AT5G13790",
+            "AT4G24540",
+            "AT1G69120",
+            "AT1G24260",
+            "AT5G20240",
+            "AT3G54340",
+            "AT4G36920",
+            "AT3G54990",
+            "AT1G77080",
+            "AT5G65060",
+            "AT4G39100",
+            "AT5G14170",
+            "AT2G18040",
+            "AT2G45640",
+            "AT3G26744"
+        ],
+        "downstream_ids": [
+            "AT4G24540",
+            "AT5G61850",
+            "AT3G26744",
+            "AT1G24260",
+            "AT2G45660",
+            "AT2G33810",
+            "AT1G53160",
+            "AT3G15270",
+            "AT5G51870",
+            "AT5G51860",
+            "AT5G62165",
+            "AT4G25490",
+            "AT3G54990",
+            "AT3G54340",
+            "AT5G11977"
+        ]
+    },
+    "AT2G28550": {
+        "upstream_ids": [
+            "AT1G69120",
+            "AT1G24260",
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT5G20240",
+            "AT3G54340",
+            "AT5G10140",
+            "AT4G36920",
+            "AT3G54990",
+            "AT5G02030",
+            "AT1G68050",
+            "AT2G18915",
+            "AT5G57360"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT1G15750",
+            "AT5G15840"
+        ]
+    },
+    "AT5G60120": {
+        "upstream_ids": [
+            "AT2G28056",
+            "AT5G04275",
+            "AT3G11435",
+            "AT4G36920",
+            "AT3G54990"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT1G15750"
+        ]
+    },
+    "AT5G67180": {
+        "upstream_ids": [
+            "AT5G10140",
+            "AT4G36920",
+            "AT3G54990",
+            "AT5G61850",
+            "AT1G69120"
+        ],
+        "downstream_ids": []
+    },
+    "AT1G25560": {
+        "upstream_ids": [
+            "AT5G59560",
+            "AT5G61850",
+            "AT1G69120",
+            "AT1G22770"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT1G15550",
+            "AT1G80340",
+            "AT4G21690",
+            "AT1G80330",
+            "AT4G25420",
+            "AT5G51810",
+            "AT5G07200",
+            "AT1G60980",
+            "AT1G44090"
+        ]
+    },
+    "AT1G68840": {
+        "upstream_ids": [
+            "AT2G22540",
+            "AT5G59560",
+            "AT1G69120",
+            "AT1G22770"
+        ],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT4G20370",
+            "AT1G15550",
+            "AT1G80340",
+            "AT4G21690",
+            "AT1G80330",
+            "AT4G25420",
+            "AT5G51810",
+            "AT5G07200",
+            "AT1G60980",
+            "AT1G44090"
+        ]
+    },
+    "AT5G17690": {
+        "upstream_ids": [
+            "AT5G11530",
+            "AT2G22540"
+        ],
+        "downstream_ids": [
+            "AT1G24260",
+            "AT1G65480",
+            "AT4G18960",
+            "AT5G10140",
+            "AT3G54340",
+            "AT4G00830"
+        ]
+    },
+    "AT5G03840": {
+        "upstream_ids": [
+            "AT5G14170",
+            "AT4G11880",
+            "AT5G61850",
+            "AT1G69120"
+        ],
+        "downstream_ids": [
+            "AT5G61850",
+            "AT1G69120",
+            "AT4G35900"
+        ]
+    },
+    "AT3G22380": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G01060"
+        ]
+    },
+    "AT5G61380": {
+        "upstream_ids": [
+            "AT5G57360",
+            "AT2G18915",
+            "AT1G68050",
+            "AT3G09600",
+            "AT5G64170",
+            "AT3G54500",
+            "AT5G02810",
+            "AT2G46790",
+            "AT2G46830"
+        ],
+        "downstream_ids": [
+            "AT3G09600",
+            "AT5G64170",
+            "AT3G54500",
+            "AT1G01060",
+            "AT5G02810",
+            "AT2G46790",
+            "AT3G46640",
+            "AT1G22770",
+            "AT5G08330"
+        ]
+    },
+    "AT1G15750": {
+        "upstream_ids": [
+            "AT3G54990",
+            "AT2G39250",
+            "AT2G28550",
+            "AT5G60120"
+        ],
+        "downstream_ids": [
+            "AT4G18960",
+            "AT1G24260",
+            "AT3G54340",
+            "AT4G36920",
+            "AT4G38130"
+        ]
+    },
+    "AT1G78580": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G05830": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140",
+            "AT1G65480"
+        ]
+    },
+    "AT4G20370": {
+        "upstream_ids": [
+            "AT5G15840",
+            "AT1G14920",
+            "AT2G01570",
+            "AT1G66350",
+            "AT3G03450",
+            "AT5G17490",
+            "AT1G25560",
+            "AT1G68840"
+        ],
+        "downstream_ids": [
+            "AT2G45660",
+            "AT3G18550",
+            "AT4G35900",
+            "AT2G17770"
+        ]
+    },
+    "AT1G14400": {
+        "upstream_ids": [
+            "AT2G44950",
+            "AT1G55250"
+        ],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT2G02760": {
+        "upstream_ids": [
+            "AT2G44950",
+            "AT1G55250"
+        ],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT5G06600": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G11910": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT3G49600": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT2G30140": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G10140"
+        ]
+    },
+    "AT4G28190": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT4G18960"
+        ]
+    },
+    "AT1G57820": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G66050": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G39550": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT1G28520": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT5G10140",
+            "AT2G18790"
+        ]
+    },
+    "AT2G42400": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G65480",
+            "AT5G10140",
+            "AT2G18790"
+        ]
+    },
+    "AT4G29830": {
+        "upstream_ids": [
+            "AT3G22590"
+        ],
+        "downstream_ids": [
+            "AT2G06210"
+        ]
+    },
+    "AT5G61150": {
+        "upstream_ids": [
+            "AT3G22590"
+        ],
+        "downstream_ids": [
+            "AT2G06210"
+        ]
+    },
+    "AT1G61040": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT5G57380": {
+        "upstream_ids": [
+            "AT2G44150",
+            "AT4G16845",
+            "AT3G24440"
+        ],
+        "downstream_ids": [
+            "AT4G22950"
+        ]
+    },
+    "AT3G24440": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G57380",
+            "AT4G02020",
+            "AT4G30200",
+            "AT5G58230",
+            "AT3G20740",
+            "AT4G16845"
+        ]
+    },
+    "AT4G30200": {
+        "upstream_ids": [
+            "AT3G24440"
+        ],
+        "downstream_ids": []
+    },
+    "AT2G18880": {
+        "upstream_ids": [],
+        "downstream_ids": []
+    },
+    "AT4G26440": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT1G26830"
+        ]
+    },
+    "AT4G11880": {
+        "upstream_ids": [],
+        "downstream_ids": [
+            "AT5G03840"
+        ]
+    },
+    "AT5G57360": {
+        "upstream_ids": [
+            "AT5G60100",
+            "AT1G22770"
+        ],
+        "downstream_ids": [
+            "AT5G61380",
+            "AT5G24470",
+            "AT5G15840",
+            "AT1G22770",
+            "AT2G28550"
+        ]
+    }
+}
