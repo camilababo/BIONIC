@@ -1,0 +1,1 @@
+This directory contains the processed datasets and exploratory plots obtained from the pre-processing workflow (present in the [pre-processing folder](https://github.com/camilababo/BIONIC/tree/master/pre-process-input-network)). It contains datasets obtained from several different pre-processing techniques, such as, Covariance and MAD (Mean Absolute Deviation) filtering. 

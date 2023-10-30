@@ -1,0 +1,1 @@
+This directory focus on the generation of evaluation standards to assess module detection performance using [BIONIC](https://github.com/bowang-lab/BIONIC. It comprises data related to flowering genes and their interaction network, sourced from the FLOR-ID](http://www.phytosystems.ulg.ac.be/florid/) database, along with the scripts required for creating these evaluation standards.

@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71696023-2683-4dc3-a9f5-76999b0f6a1f" name="Changes" comment="updates">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aracne/ARACNE Inference 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aracne/filtered_features_features-dup.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aracne/filtered_probe_features-dup.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/binary_run/16mad_binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/binary_run/16mad_binary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/binary_run/25mad_binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/binary_run/25mad_binary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/filtered-config_module_detection_AMI1.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/filtered-config_module_detection_AMI1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/filtered-config_module_detection_AMI2.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/filtered-config_module_detection_AMI2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/filtered-config_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/filtered-config_module_detection_ARI.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/florid_labels.json" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/florid_labels.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/string_file_to_eval_stand.py" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/string_file_to_eval_stand.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/switch_complex_label_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/switch_complex_label_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/bionic_evals/true_predictions_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/bionic_evals/true_predictions_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_difconfig_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_difconfig_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_difconfig_run_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_difconfig_run_module_detection_ARI.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_difcongif_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_difcongif_features_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/filtered_newconfig_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/filtered_newconfig_module_detection_ARI.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_new_config/labeled-run_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_new_config/labeled-run_module_detection_ARI.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/filtered_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/filtered_features_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/filtered_features_network_weights.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/filtered_features_network_weights.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_gene_sym/potent_induction_scaled.json" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_gene_sym/potent_induction_scaled.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/features-cluster-labels1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/features-cluster-labels1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered-config_module_detection_AMI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered-config_module_detection_AMI.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered-run-AMI1.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered-run-AMI1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered-run-AMI2.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered-run-AMI2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered_probe_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered_probe_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered_probe_weights.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered_probe_weights.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/filtered_probes_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/filtered_probes_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/filtered_run_probes/network-cluster-labels1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/filtered_run_probes/network-cluster-labels1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_label_set_1_predictions.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_label_set_1_predictions.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/2labeled_features_loss.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/2labeled_features_loss.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/feature-cluster-labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/feature-cluster-labels.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_config_module_detection.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_config_module_detection.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_config_module_detection_ARI.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_config_module_detection_ARI.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_features_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/labeled_features_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/labeled_features_model.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/labelled_run/network-cluster-labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/labelled_run/network-cluster-labels.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/non_filtered/test_features_features.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/non_filtered/test_features_features.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/non_filtered/test_features_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/non_filtered/test_features_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/random_run/16mad_random.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/random_run/16mad_random.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bionic/random_run/25mad_random.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train-eval-results/random_run/25mad_random.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/flor_id_flowering_genes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flor_id_flowering_genes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/flor_id_flowering_genes.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flor_id_flowering_genes.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_complexes.json" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/florid_complexes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/florid_scrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/florid_scrapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/flowerid_locus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flowerid_locus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/flowering_genes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/flowering_genes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/gene_symbol_mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/gene_symbol_mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/geneid_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/geneid_mapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/ncbi_id_mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/ncbi_id_mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gene_mapping/symbol_test_num.csv" beforeDir="false" afterPath="$PROJECT_DIR$/eval_standard_gene_mapping/symbol_test_num.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/data_pre_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pre-process-input-network/data_pre_processing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/input_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre-process-input-network/old_process_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/process_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre-process-input-network/new_process_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/rec-input-net.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_files/semicolon-entries.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,21 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anaca/Desktop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/anaca/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\anaca\PycharmProjects\module-dection\bionic\bionic_evals" />
@@ -355,7 +294,8 @@
       <workItem from="1698070918263" duration="663000" />
       <workItem from="1698072960517" duration="874000" />
       <workItem from="1698074066271" duration="758000" />
-      <workItem from="1698505730984" duration="309000" />
+      <workItem from="1698505730984" duration="1733000" />
+      <workItem from="1698681800033" duration="3247000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1681474973306</created>
@@ -448,7 +388,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687963743193</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updates">
+      <created>1698506062393</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698506062393</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updates">
+      <created>1698506386487</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698506386487</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updates">
+      <created>1698506444423</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698506444423</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,1 @@
+This directory contains the pre-processing workflow, used to pre-process the chosen datasets, and the scripts used to compute edgelist files used as input for the [BIONIC](https://github.com/bowang-lab/BIONIC) algorithm. The files produced from both these scripts are present in the [outputs folder](https://github.com/camilababo/BIONIC/tree/master/outputs). 
